@@ -3,7 +3,7 @@ import { useTheme } from "next-themes";
 import akaman from "./assets/akaman.png";
 import CC from "./assets/CC.jpg";
 import Cutrite from "./assets/Cutrite.png";
-import Gualani from "./assets/Gualani.png";
+import Gaulani from "./assets/Gaulani.png";
 import Katoya from "./assets/Katoya.png";
 import MidMedia from "./assets/MidMedia.png";
 import Mutakamwa from "./assets/Mutakamwa.png";
@@ -11,7 +11,7 @@ import Omache from "./assets/Omache.png";
 import Psycho from "./assets/Psycho.jpg";
 import Reddys from "./assets/Reddys.png";
 import Shamkan from "./assets/Shamkan.png";
-import Sherdon from "./assets/Sherdon.png";
+import Sherdon from "./assets/Sherdon.jpg";
 import Zamdrop from "./assets/Zamdrop.png";
 
 // --- Helper Components ---
@@ -85,14 +85,15 @@ const portfolioItems = [
   {
     id: 1,
     title: "CC Gabriel & Co Legal Practitioners",
-    imageUrl: "https://portfolio.levelupzed.com/Images/Gaulani.png",
+    imageUrl: CC,
+
     description: "Website for CC Gabriel & Co Legal Practitioners",
     liveUrl: "https://ccgabriel.com",
   },
   {
     id: 2,
     title: "E-commerce Store",
-    imageUrl: "https://placehold.co/600x400/4a5568/ffffff?text=Project+Two",
+    imageUrl: Gaulani,
     description:
       "An online store with WooCommerce integration, featuring custom product pages and checkout.",
     liveUrl: "https://example.com",
@@ -100,7 +101,7 @@ const portfolioItems = [
   {
     id: 3,
     title: "Real Estate Agency Site",
-    imageUrl: "https://placehold.co/600x400/2d3748/ffffff?text=Project+Three",
+    imageUrl: Mutakamwa,
     description:
       "A WordPress site with advanced property listings, search filters, and agent profiles.",
     liveUrl: "https://example.com",
@@ -108,7 +109,7 @@ const portfolioItems = [
   {
     id: 4,
     title: "Corporate Landing Page",
-    imageUrl: "https://placehold.co/600x400/718096/ffffff?text=Project+Four",
+    imageUrl: Omache,
     description:
       "A high-converting landing page built with a page builder and custom WordPress blocks.",
     liveUrl: "https://example.com",
@@ -116,7 +117,7 @@ const portfolioItems = [
   {
     id: 5,
     title: "Membership Platform",
-    imageUrl: "https://placehold.co/600x400/1a202c/ffffff?text=Project+Five",
+    imageUrl: Katoya,
     description:
       "A members-only content site using WordPress, providing exclusive access to resources.",
     liveUrl: "https://example.com",
@@ -124,7 +125,63 @@ const portfolioItems = [
   {
     id: 6,
     title: "Artist Portfolio",
-    imageUrl: "https://placehold.co/600x400/4a5568/ffffff?text=Project+Six",
+    imageUrl: Psycho,
+    description:
+      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
+    liveUrl: "https://example.com",
+  },
+  {
+    id: 7,
+    title: "Artist Portfolio",
+    imageUrl: Cutrite,
+    description:
+      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
+    liveUrl: "https://example.com",
+  },
+  {
+    id: 8,
+    title: "Artist Portfolio",
+    imageUrl: Sherdon,
+    description:
+      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
+    liveUrl: "https://example.com",
+  },
+  {
+    id: 9,
+    title: "Artist Portfolio",
+    imageUrl: Zamdrop,
+    description:
+      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
+    liveUrl: "https://example.com",
+  },
+  {
+    id: 10,
+    title: "Artist Portfolio",
+    imageUrl: akaman,
+    description:
+      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
+    liveUrl: "https://example.com",
+  },
+  {
+    id: 11,
+    title: "Artist Portfolio",
+    imageUrl: MidMedia,
+    description:
+      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
+    liveUrl: "https://example.com",
+  },
+  {
+    id: 12,
+    title: "Artist Portfolio",
+    imageUrl: Reddys,
+    description:
+      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
+    liveUrl: "https://example.com",
+  },
+  {
+    id: 13,
+    title: "Artist Portfolio",
+    imageUrl: Shamkan,
     description:
       "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
     liveUrl: "https://example.com",
