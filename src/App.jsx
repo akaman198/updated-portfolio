@@ -10,7 +10,6 @@ import Mutakamwa from "./assets/Mutakamwa.png";
 import Omache from "./assets/Omache.png";
 import Psycho from "./assets/Psycho.jpg";
 import Reddys from "./assets/Reddys.png";
-import Shamkan from "./assets/Shamkan.png";
 import Sherdon from "./assets/Sherdon.jpg";
 import Zamdrop from "./assets/Zamdrop.png";
 
@@ -92,99 +91,80 @@ const portfolioItems = [
   },
   {
     id: 2,
-    title: "E-commerce Store",
+    title: "Gaulani Agrovet",
     imageUrl: Gaulani,
-    description:
-      "An online store with WooCommerce integration, featuring custom product pages and checkout.",
-    liveUrl: "https://example.com",
+    description: "Website for Gualani Agrovet.",
+    liveUrl: "https://gaulani.com/",
   },
   {
     id: 3,
-    title: "Real Estate Agency Site",
+    title: "Mutakamwa Productions",
     imageUrl: Mutakamwa,
-    description:
-      "A WordPress site with advanced property listings, search filters, and agent profiles.",
-    liveUrl: "https://example.com",
+    description: "Website for Mutakamwa Productions.",
+    liveUrl: "https://mutakamwa.org",
   },
   {
     id: 4,
-    title: "Corporate Landing Page",
+    title: "Omache Lodge",
     imageUrl: Omache,
-    description:
-      "A high-converting landing page built with a page builder and custom WordPress blocks.",
-    liveUrl: "https://example.com",
+    description: "Website for Omache Lodge",
+    liveUrl: "https://omachelodge.com/",
   },
   {
     id: 5,
-    title: "Membership Platform",
+    title: "Katoya Innovations",
     imageUrl: Katoya,
-    description:
-      "A members-only content site using WordPress, providing exclusive access to resources.",
-    liveUrl: "https://example.com",
+    description: "Website for Katoya Innovations",
+    liveUrl: "Katoya-innovations.com",
   },
   {
     id: 6,
-    title: "Artist Portfolio",
+    title: "Psycho Lumen",
     imageUrl: Psycho,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
+    description: "Website for Psychlumen",
+    liveUrl: "http://psychelumen.com/",
   },
   {
     id: 7,
-    title: "Artist Portfolio",
+    title: "Cutrite",
     imageUrl: Cutrite,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
+    description: "Website for Cutrite",
+    liveUrl: "http://cutritengineers.com/",
   },
   {
     id: 8,
-    title: "Artist Portfolio",
+    title: "Sherdon Engineering Limited",
     imageUrl: Sherdon,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
+    description: "Website for Sherdon Engineering Limited",
+    liveUrl: "https://sherdongroup.com/",
   },
   {
     id: 9,
-    title: "Artist Portfolio",
+    title: "Zamdrop",
     imageUrl: Zamdrop,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
+    description: "Website for Zamdrop",
+    liveUrl: "https://zam-drop.netlify.app/",
   },
   {
     id: 10,
-    title: "Artist Portfolio",
+    title: "Akaman's Portfolio",
     imageUrl: akaman,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
+    description: "Portfolio Website for akaman",
+    liveUrl: "https://akaman.netlify.app/",
   },
   {
     id: 11,
-    title: "Artist Portfolio",
+    title: "MidMedia (Concept)",
     imageUrl: MidMedia,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
+    description: "Concept for MidMedia's Website",
+    liveUrl: "https://test.katoya-innovations.com/",
   },
   {
     id: 12,
-    title: "Artist Portfolio",
+    title: "Reddy Convention Centre (Concept)",
     imageUrl: Reddys,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
-  },
-  {
-    id: 13,
-    title: "Artist Portfolio",
-    imageUrl: Shamkan,
-    description:
-      "A visually-driven portfolio for a creative professional, focusing on imagery and clean design.",
-    liveUrl: "https://example.com",
+    description: "Concept for Reddy Convention Centre website.",
+    liveUrl: "https://reddy.katoya-innovations.com/",
   },
 ];
 
