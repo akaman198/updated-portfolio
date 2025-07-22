@@ -115,7 +115,7 @@ const portfolioItems = [
     title: "Katoya Innovations",
     imageUrl: Katoya,
     description: "Website for Katoya Innovations",
-    liveUrl: "Katoya-innovations.com",
+    liveUrl: "http://Katoya-innovations.com/",
   },
   {
     id: 6,
@@ -258,7 +258,7 @@ export default function App() {
 
         <footer className="text-center mt-16 text-gray-500 dark:text-gray-400">
           <p>
-            &copy; {new Date().getFullYear()} Your Name. All Rights Reserved.
+            &copy; {new Date().getFullYear()} Level Up. All Rights Reserved.
           </p>
         </footer>
       </div>
