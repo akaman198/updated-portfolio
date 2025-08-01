@@ -32,7 +32,7 @@ const Footer = () => {
       </div>
 
       <p className="text-gray-400">
-        LEVEL UP &copy; {new Date().getFullYear()} | All Rights Reserved
+        &copy; {new Date().getFullYear()} Level Up. All Rights Reserved.
       </p>
     </div>
   );

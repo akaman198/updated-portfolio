@@ -255,12 +255,6 @@ export default function App() {
             <PortfolioCard key={item.id} item={item} />
           ))}
         </main>
-
-        <footer className="text-center mt-16 text-gray-500 dark:text-gray-400">
-          <p>
-            &copy; {new Date().getFullYear()} Level Up. All Rights Reserved.
-          </p>
-        </footer>
       </div>
     </div>
   );
